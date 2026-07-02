@@ -1,1 +1,0 @@
-Gradke Cruise App v3.5 Smart Assistant
