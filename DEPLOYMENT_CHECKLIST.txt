@@ -1,0 +1,12 @@
+Deployment checklist:
+1. Create GitHub repo: gradke-cruise-app
+2. Upload contents of this folder, not the ZIP itself.
+3. Confirm index.html is in the repo root.
+4. Create Cloudflare Pages project.
+5. Connect GitHub repo.
+6. Framework preset: None.
+7. Build command: blank.
+8. Output directory: blank or /.
+9. Deploy.
+10. Open app URL on phone.
+11. Add to Home Screen.

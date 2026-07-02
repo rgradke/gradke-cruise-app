@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+<rect width="192" height="192" rx="38" fill="#0B6FA4"/>
+<circle cx="144" cy="44" r="15" fill="#F7B731"/>
+<path d="M 28 119 C 57 96, 82 138, 111 109 S 149 103, 167 124" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+<text x="50%" y="48%" text-anchor="middle" font-family="Arial" font-weight="900" font-size="34" fill="#fff">G</text>
+<text x="50%" y="78%" text-anchor="middle" font-family="Arial" font-weight="800" font-size="14" fill="#fff">CRUISE</text>
+</svg>
