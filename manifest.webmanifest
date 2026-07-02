@@ -1,0 +1,9 @@
+{
+  "name": "Gradke Cruise Companion v3.5",
+  "short_name": "Gradke Cruise",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#0B6FA4",
+  "background_color": "#0B6FA4",
+  "icons": []
+}
